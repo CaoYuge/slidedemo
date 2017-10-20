@@ -17,7 +17,7 @@ class: center, middle
 
 ### 2. 个人爱好与特长
 
-### 3. 最喜欢的小姐姐
+### 3. 最喜欢的图片
 
 ---
 
@@ -39,8 +39,8 @@ class: center, middle
 
 ---
 
-## 最喜欢的小姐姐
+## 最喜欢的图片
 
-** A2小姐姐 **
+** Ada Lovelace **
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
