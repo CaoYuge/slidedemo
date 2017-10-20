@@ -1,62 +1,42 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 曹宇舸 (1700011740@pku.edu.cn)  
 
-主页: https://github.com/author
-
----
-
-## 本讲内容
-
-### <font color="orangered">1. 第一部分</font>
-
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
+主页: https://github.com/CaoYuge
 
 ---
 
-## 第一部分
+## 自我介绍
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+### <font color="orangered">1. 基本信息</font>
+
+### 2. 个人爱好与特长
 
 ---
 
-## 插图
+## 基本信息
 
-** Ada Lovelace **
+### 姓名：曹宇舸 性别：男 家乡：浙江省金华市
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+### 所在院系：化学与分子工程学院
+
+### 电话：18057939821 邮箱：1700011740@pku.edu.cn
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## 个人爱好和特长
 
+### 爱好：有机材料化学、打篮球、唐诗、LOL、PUBG
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
-
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
+### 特长：吹笛子、萨克斯
 
 ---
 
 class: center, middle
 
-# 谢谢
+# 谢谢观看
