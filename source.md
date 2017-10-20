@@ -13,9 +13,11 @@ class: center, middle
 
 ## 自我介绍
 
-### <font color="orangered">1. 基本信息</font>
+### 1. 基本信息
 
 ### 2. 个人爱好与特长
+
+### 3. 最喜欢的小姐姐
 
 ---
 
@@ -37,9 +39,9 @@ class: center, middle
 
 ---
 
-## 插图
+## 最喜欢的小姐姐
 
-** Ada Lovelace **
+** A2小姐姐 **
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
 
