@@ -49,4 +49,4 @@ class: center, middle
 
 class: center, middle
 
-# 谢谢观看
+# 谢谢
