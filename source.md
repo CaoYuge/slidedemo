@@ -44,9 +44,3 @@ class: center, middle
 ** A2小姐姐 **
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
-
----
-
-class: center, middle
-
-# 谢谢观看
